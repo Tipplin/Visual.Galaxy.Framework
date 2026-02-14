@@ -3,7 +3,7 @@
 ----
 ## 👨‍👦‍👦 All Developers are Welcome !
 ----
-#### Copyrights © 2017-2024 by 👁️ Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
+#### Copyrights © 2017-2026 by 👁️ Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
 ----
 #### Portions of Copyrights © 1982-2024 by Microsoft Corporation 
 ----
@@ -71,7 +71,7 @@
 #### to cease publication temporarily or permanently without prior notice.
 
 #### Author: 🧑 Christian 'Tipplin' Kurs
-#### Germany, Bonn, January 20, 2023
+#### Germany, Köln Porz Zündorf, February 14, 2026
 ----
 ### Author Info:
 #### All our Projects and this Links and Free Music Archive (at buttom FMA browse FMA - show genres music style) on Handy:
@@ -319,8 +319,8 @@
 ----
 #### http://www.spiele-kostenlos-online.de
 ----
-#### Copyrights © 2017-2024 by 👁️ Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
-#### Trademarks and Copyrights © 2024 by they Owner of Websites.
+#### Copyrights © 2017-2026 by 👁️ Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
+#### Trademarks and Copyrights © 2026 by they Owner of Websites.
 ----
 
 
