@@ -28,7 +28,7 @@
 #### copyrights, or other intellectual property except as expressly provided in any written license agreement.
 ----
 #### Applications created in this VGF Environment will NOT work on the 32-bit version of Windows. 
-#### Use Visual Studio 2022 and .NET6 or .NET7 or Higher:
+#### Use Visual Studio 2026 and .NET10
 #### The Visual C# Compiler is included so that you can evaluate your Win64 code syntax.
 ----
 #### There are also several topics in the Visual Galaxy Framework Platform SDK documentation 
