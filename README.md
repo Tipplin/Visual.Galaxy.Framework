@@ -9,7 +9,7 @@
 ![MailPixelGIF](https://user-images.githubusercontent.com/40143278/220922489-95805a01-03ac-4964-8f16-b4c06c13bfaf.gif)
 #### kurschristian@gmail.com
 ----
-#### Germany, Bonn, Febr 23, 2023
+#### Germany, Köln Porz Zündorf, Febr 14 2026
 ----
 ## Introduction
 #### Visual Galaxy Framework is just a great application as .NET Assembly 
@@ -58,7 +58,7 @@
 #### FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, 
 #### THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
 ----
-#### Copyright © 2017-2024 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
-#### Copyright © 2017-2024 - Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
-#### Copyright © 1982-2024 - Visual Studio, Windows by Microsoft Corporation.
+#### Copyright © 2017-2026 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
+#### Copyright © 2017-2026 - Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
+#### Copyright © 1982-2026 - Visual Studio, Windows by Microsoft Corporation.
 -----
