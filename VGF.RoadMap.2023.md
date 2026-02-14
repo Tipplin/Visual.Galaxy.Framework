@@ -1,5 +1,5 @@
 ----
-### Roadmap of Visual Galaxy Framework - Copyright © 2017-2023 by VGF-Kernelteam.
+### Roadmap of Visual Galaxy Framework - Copyright © 2017-2026 by VGF-Kernelteam.
 ----
 #### Short Description:
 ----
@@ -23,7 +23,8 @@
 ----
  - [ ] Develop-point 2 
 ----
-###### Copyright © 2017-2024 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
-###### Copyright © 2017-2024 - Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
-###### Copyright © 1982-2024 - Visual Studio, Windows by Microsoft Corporation.
+###### Copyright © 2017-2026 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
+###### Copyright © 2017-2026 - Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
+###### Copyright © 1982-2026 - Visual Studio, Windows by Microsoft Corporation.
 ----
+
