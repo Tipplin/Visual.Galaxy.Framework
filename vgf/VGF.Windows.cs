@@ -11,21 +11,19 @@
 //----------------------------------------------------------------------------
 // Base Class		:	VGFWindows.cs
 //----------------------------------------------------------------------------
-// .NET             :   7.0
+// .NET             :   10.0
 //----------------------------------------------------------------------------
-// .NET Language    :   Visual C# Version 11
+// .NET Language    :   Visual C# Version 14
 //----------------------------------------------------------------------------
-// .NET in Progress :   8.0 with new features at 2023 (Release Novembre 2023!)
-//----------------------------------------------------------------------------
-// Copyright © 2017-2024, 
+// Copyright © 2017-2026, 
 // by  Visual Galaxy Framework Community Kernel Developer Team.
 //
 // by Head-Author: Christian "Tipplin" Kurs - Visual C# Developer
-// Portions Copyright © 1982-2024 by Microsoft Corporation GmbH.
+// Portions Copyright © 1982-2026 by Microsoft Corporation GmbH.
 //
 // ---------------------------------------------------------------------------
 // Same sourcecode by Microsoft, so we marked with Copyright !.
-// © 1982-2024 - Copyrights by Microsoft: Images, Icons, Signs, Gadgets, 
+// © 1982-2026 - Copyrights by Microsoft: Images, Icons, Signs, Gadgets, 
 // Copyright © and Tradewark by Microsoft Windows, Windows Logo, Visual Studio
 // ---------------------------------------------------------------------------
 //
@@ -35,8 +33,8 @@
 // VFGCore
 // written by 		
 //					Christian "Tipplin" Kurs
-//					Ahornweg 1
-//				-G -53177 Bonn
+//					Asternweg 10
+//				-G -51143 Köln Porz Zündorf
 //					Germany - Allemagne - Duitsland
 //---------------------------------------------------------------------------- 
 //					international phone		:
@@ -146,7 +144,7 @@
  */
 
 /*-----------------------------------------------------------------------------
- * Copyright © 2017-2024 Christian 'Tipplin' Kurs. All Rights Reserved.
+ * Copyright © 2017-2026 Christian 'Tipplin' Kurs. All Rights Reserved.
  *-----------------------------------------------------------------------------
  * you may not use this file except in compliance with the License.
  * See License Agreement in Class VGF.Core at Main Head.
@@ -195,7 +193,7 @@
 
 
 /*
- * Use internal .NET 7 release with Visual C# 11, see the new sets global
+ * Use internal at .NET 7 release with Visual C# 11, see the new sets global
  * means all directives guilty in Project, 
  * no more write namespaces in other cs.files.
  * 
@@ -249,6 +247,8 @@ internal static class VGFWindows
     /// </returns>
     /// <remarks>
     /// Windows 10/11 Professional Edition is now an Workstation every Computerart.
+    /// with many Network Libraries contact to Server, but you must have license Windows Server CAL
+    /// internal check you have License.
     /// Call the Method, and he locked the Workstation, enlocked with new LogIn Window.
     /// </remarks>
     public static bool VGFLockWindowsWorkStation()
@@ -313,3 +313,4 @@ internal static class VGFWindows
 
 
 }
+
