@@ -11,17 +11,15 @@
 //----------------------------------------------------------------------------
 // Base Class		:	VGFCore
 //----------------------------------------------------------------------------
-// .NET             :   7.0
+// .NET             :   10.0
 //----------------------------------------------------------------------------
-// .NET Language    :   Visual C# Version 11
+// .NET Language    :   Visual C# Version 14
 //----------------------------------------------------------------------------
-// .NET in Progress :   8.0 with new features at 2023 (Release Novembre 2023!)
-//----------------------------------------------------------------------------
-// Copyright © 2017-2024, 
+// Copyright © 2017-2026, 
 // by  Visual Galaxy Framework Community Kernel Developer Team.
 //
 // by Head-Author: Christian "Tipplin" Kurs - Visual C# Developer
-// Portions Copyright © 1982-2024 by Microsoft Corporation GmbH.
+// Portions Copyright © 1982-2026 by Microsoft Corporation GmbH.
 //
 // ---------------------------------------------------------------------------
 // Same sourcecode by Microsoft, so we marked with Copyright !.
@@ -35,8 +33,8 @@
 // VFGCore
 // written by 		
 //					Christian "Tipplin" Kurs
-//					Ahornweg 1
-//				-G -53177 Bonn
+//					Asternweg 10
+//				-G -51143 Köln Porz Zündorf
 //					Germany - Allemagne - Duitsland
 //---------------------------------------------------------------------------- 
 //					international phone		:
@@ -128,7 +126,7 @@
  * Please see the documentation supplied with 
  * the VGF Libraries for further details.
  * ============================================================================
- * Authored by Copyright © 2917-2024 by 
+ * Authored by Copyright © 2917-2026 by 
  * Visual Galaxy Framework Community Kernel Developer Team.
  * All rights reserved.
  * ============================================================================
@@ -146,7 +144,7 @@
  */
 
 /*-----------------------------------------------------------------------------
- * Copyright © 2017-2024 Christian 'Tipplin' Kurs. All Rights Reserved.
+ * Copyright © 2017-2026 Christian 'Tipplin' Kurs. All Rights Reserved.
  *-----------------------------------------------------------------------------
  * you may not use this file except in compliance with the License.
  * See License Agreement in Class VGF.Core at Main Head.
@@ -172,7 +170,7 @@
  * and entities on the Bureau of Export Administration Entity List or
  * involved with missile technology or nuclear, chemical or biological weapons)
  * -----------------------------------------------------------------------------
- * © 1982-2024 Microsoft Corporation.All rights reserved.
+ * © 1982-2026 Microsoft Corporation.All rights reserved.
  * -----------------------------------------------------------------------------
  *==============================================================================
 */
@@ -227,7 +225,12 @@
 // PINT = Pointer of INTEGER - *PINT						PInt*
 // PWORD = Pointer of WORD - *PWORD							PWord*
 // LPINT = LongPointer of INTEGER - *LPINT					LPInt*
-// 
+// ----------------------------------------------------------------------------
+// New C# 128 BIT Datatypes:
+// integer128
+// unsigned integer128
+// for long time vendors meeting for an 128 Bit Operation System:
+// Microsoft, IBM, HP....
 //
 //----------- Windows Operation System Special --------------------------------
 // ! ATTENTION ! BOOLEAN - BOOL is 1 Byte intern, for Visual C# use byte as
@@ -336,7 +339,7 @@
  * 'Tipplin' myself:
  * ------------------------------------------------------------------------
  * In Germany for interest Humans give an Art of Highschool:
- * 'Volkshochschule' graduted Informatik with Test and Certification.
+ * 'Volkshochschule' graduted Informatic with Test and Certification.
  * Windows Insider Program with many Feedback last time.
  * ------------------------------------------------------------------------
  * GitHub Member:
@@ -361,8 +364,7 @@
  * Great Video about our SUN ! in 8K Special Camera
  * ------------------------------------------------------------------------
  * I live in:
- * For my City BONN the Great United Nations - City
- * over ca 350.000 Peoples - NorthRine - Westfalia:
+ * Köln Porz Zündorf
  * ------------------------------------------------------------------------
  * 2017: 
  * Cologne is the greathest City over 1 Million People -6. Place in Germany
@@ -391,7 +393,7 @@
  * MARIOTTT Greathest Worldwide Hotelgroup.
  * ------------------------------------------------------------------------
  * Hotel Kahema and Bavarian 'Biergarten'
- * Bavarian 'Almhütte' with Orginal Bavarian Meats and Beer, more...
+ * Bavarian 'Almhütte' near Rhine with Orginal Bavarian Meats and Beer, more...
  * delivered from Bavaria.
  * 
  * Hotel Hilton (IS OVER!, new Name is Hotel Dorint !)
@@ -459,7 +461,7 @@
  *************************************************************************/
 
 /*
- * Use internal .NET 7 release with Visual C# 11, see the new sets global
+ * Use internal at .NET 7 release with Visual C# 11, see the new sets global
  * means all directives guilty in Project, 
  * no more write namespaces in other cs.files.
  * 
@@ -555,3 +557,4 @@ internal static class VGFCore
     
 
 } // END::OF::CLASS::VGFCore
+
