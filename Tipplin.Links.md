@@ -5,7 +5,7 @@
 ----
 #### Copyrights © 2017-2026 by 👁️ Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
 ----
-#### Portions of Copyrights © 1982-2024 by Microsoft Corporation 
+#### Portions of Copyrights © 1982-2026 by Microsoft Corporation 
 ----
 ## Links Disclaimer
 ----
@@ -237,17 +237,7 @@
 ----
 ### For Developers:
 ----
-### To Microsoft Links
-----
-### Theme of NET:
-#### https://themesof.net/
-#### Roadmap of .NET8
-#### https://themesof.net/roadmap?product=.NET&release=8.0
-#### Item Runtime
-#### Item Libraries
-#### Item Application Models
-#### Item Tooling
-#### Item Acquisition and Deployment
+### To Microsoft
 ----
 #### Roadmap of .NET9
 #### https://themesof.net/roadmap?product=.NET&release=9.0
