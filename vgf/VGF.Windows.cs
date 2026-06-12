@@ -34,7 +34,7 @@
 // written by 		
 //					Christian "Tipplin" Kurs
 //					Asternweg 10
-//				-G -51143 Köln Porz Zündorf
+//				-G -51143 Cologne
 //					Germany - Allemagne - Duitsland
 //---------------------------------------------------------------------------- 
 //					international phone		:
