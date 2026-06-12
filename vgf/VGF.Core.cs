@@ -34,7 +34,7 @@
 // written by 		
 //					Christian "Tipplin" Kurs
 //					Asternweg 10
-//				-G -51143 Köln Porz Zündorf
+//				-G -51143 Cologne
 //					Germany - Allemagne - Duitsland
 //---------------------------------------------------------------------------- 
 //					international phone		:
@@ -226,9 +226,11 @@
 // PWORD = Pointer of WORD - *PWORD							PWord*
 // LPINT = LongPointer of INTEGER - *LPINT					LPInt*
 // ----------------------------------------------------------------------------
-// New C# 128 BIT Datatypes:
+// New Visual C# 128 BIT Datatypes:
+//=============================================================================
 // integer128
 // unsigned integer128
+//-----------------------------------------------------------------------------
 // for long time vendors meeting for an 128 Bit Operation System:
 // Microsoft, IBM, HP....
 //
@@ -364,7 +366,7 @@
  * Great Video about our SUN ! in 8K Special Camera
  * ------------------------------------------------------------------------
  * I live in:
- * Köln Porz Zündorf
+ * Cologne Porz
  * ------------------------------------------------------------------------
  * 2017: 
  * Cologne is the greathest City over 1 Million People -6. Place in Germany
